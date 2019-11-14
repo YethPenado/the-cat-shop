@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "image": "img/1.jpg",
+      "title": "Pusheen Party Romper",
+      "price": 35,
+      "description": "This light and breezy romper will help you feel as cool as you look! The romper sports a pattern of Pusheen and Stormy enjoying watermelon and sundaes, an elastic waistband and adjustable straps for the perfect fit for optimal comfort, and pockets for keeping all your summer necessities close.",
+      "availableSizes": ["XS", "S", "M", "L"],
+      "category": "Dress",
+      "id": 1
+    },
+    {
+      "image": "img/2.png",
+      "title": "Pink Pusheen Patterned Ladies Sweatshirt",
+      "price": 25,
+      "description": "This blush pink sweater features a minimalist all-over print of Pusheen!",
+      "availableSizes": ["M", "L"],
+      "category": "Sweater",
+      "id": 2
+    },
+    {
+      "image": "img/3.jpg",
+      "title": "Catfe Drinks Ladies Tee",
+      "price": 15,
+      "description": "How well do you know catfe drinks? Show off your coffee expertise in this stylishly soft Pusheen ladies tee!",
+      "availableSizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "category": "T-Shirt",
+      "id": 3
+    },
+    {
+      "image": "img/4.jpg",
+      "title": "Black Pastel Pusheen One Piece Swim Suit",
+      "price": 27,
+      "description": "This flattering one piece swim suit features the trio of Pastel Pusheens surrounded by cosmic confections! Perfect for summer pool parties!",
+      "availableSizes": ["S", "M", "XXL"],
+      "category": "Swim Suit",
+      "id": 4
+    },
+    {
+      "image": "img/5.jpg",
+      "title": "Pusheen Blush Pink Bikini Top",
+      "price": 30,
+      "description": "This chic blush pink bikini top features a Pusheen all over print, halter style straps, and molded cups. Perfect for a day lounging poolside!",
+      "availableSizes": ["XS", "S"],
+      "category": "Swim Suit",
+      "id": 5
+    },
+    {
+      "image": "img/6.jpg",
+      "title": "Surfing Pusheen One Piece Swim Suit",
+      "price": 27,
+      "description": "This super cute one piece swim suit features Pusheen surfing surrounded by all her friends! Perfect for a day at the pool or beach!",
+      "availableSizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "category": "Swim Suit",
+      "id": 6
+    },
+    {
+      "image": "img/7.png",
+      "title": "Pugsheen Print Ladies Sweatshirt",
+      "price": 25,
+      "description": "This adorable long sleeve terrycloth raglan sweatshirt features an neutral all-over print of the chubby puppy in various poses!",
+      "availableSizes": ["L", "XL", "XXL"],
+      "category": "T-Shirt",
+      "id": 7
+    },
+    {
+      "image": "img/8.png",
+      "title": "Pumpkin Pusheen Mesh Illusion Dress",
+      "price": 30,
+      "description": "This little black dress features a mesh illusion neckline and a Pumpkin Pusheen pattern!",
+      "availableSizes": ["XS", "S"],
+      "category": "Dress",
+      "id": 8
+    },
+    {
+      "image": "img/9.png",
+      "title": "Pusheen Legacy Unisex Sweatshirt",
+      "price": 38,
+      "description": "This long-sleeved terry cloth sweatshirt features Pusheen and unique felt appliqué details!",
+      "availableSizes": ["XS", "S", "L"],
+      "category": "T-Shirt",
+      "id": 9
+    },
+    {
+      "image": "img/10.jpg",
+      "title": "Cat Pantyhose",
+      "price": 30,
+      "description": "Cute Cat pantyhose Black faux thigh high with flesh color top, cat design in two styles. Back of tights have a cat tail going up leg.",
+      "availableSizes": ["XS"],
+      "category": "Accessories",
+      "id": 10
+    },
+    {
+      "image": "img/11.png",
+      "title": "Classic cat-eye sunglasses",
+      "price": 30,
+      "description": "Classic cat-eye sunglasses with a black frame and tinted lenses.",
+      "category": "Accessories",
+      "id": 11
+    },
+    {
+      "image": "img/12.png",
+      "title": "Black Cat Earrings",
+      "price": 30,
+      "description": "This cute earrings are puurfect for a truly cat lady",
+      "category": "Jewelry",
+      "id": 12
+    },
+    {
+      "image": "img/13",
+      "title": "Coffee Pusheen Jewelry Set",
+      "price": 30,
+      "description": "Add a splash of cozy kittens to your outfit du jour with a necklace and earrings inspired by Pusheen's love for relaxing with coffee!",
+      "category": "Jewelry",
+      "id": 13
+    },
+    {
+      "image": "img/14.png",
+      "title": "Teacup Pusheen Stud Earrings",
+      "price": 30,
+      "description": "This adorable stud earring set features Pusheen inside a tiny teacup!",
+      "category": "Jewelry",
+      "id": 14
+    },
+    {
+      "image": "img/15.png",
+      "title": "Cool Pusheen Necklace",
+      "price": 30,
+      "description": "This adorable metal necklace features Pusheen looking cool in sunglasses!",
+      "category": "Jewelry",
+      "id": 15
+    },
+    {
+      "image": "img/16.png",
+      "title": "Ice Cream Pusheen Earrings",
+      "price": 30,
+      "description": "This adorable earring set features the Pusheen as an ice cream cone!",
+      "category": "Jewelry",
+      "id": 16
+    },
+    {
+      "image": "img/17.png",
+      "title": "Pusheen Knit Scarf",
+      "price": 30,
+      "description": "Stay cozy and warm on windy days with this adorable cozy knit scarf featuring a classic Pusheen pattern.",
+      "category": "Accessories",
+      "id": 17
+    },
+    {
+      "image": "img/18.png",
+      "title": "Pink Pastel Pusheen Crossbody Purse",
+      "price": 30,
+      "description": "This adorable crossbody purse features a print of the Pusheen as Pink Pastel Pusheen on each side!",
+      "category": "Accessories",
+      "id": 18
+    },
+    {
+      "image": "img/19.png",
+      "title": "Pusheen Striped Snack Patch Unisex Tee",
+      "price": 30,
+      "description": "This striped unisex tee features seven different patches of Pusheen and her favorite snacks!",
+      "availableSizes": ["M", "XL"],
+      "category": "T-Shirt",
+      "id": 19
+    },
+    {
+      "image": "img/18jpg",
+      "title": "Pusheenicorn Wristlet Wallet",
+      "price": 30,
+      "description": "This chic wristlet wallet features an all-over print of the magical Pusheenicorn! The detachable wrist strap turns this oversized wallet into a clutch for your night out. The roomy interior compartments fit standard phone sizes perfectly!",
+      "category": "Accessories",
+      "id": 20
+    },
+    {
+      "image": "img/21.jpg",
+      "title": "Pusheen Button-Up Party Dress",
+      "price": 30,
+      "description": "",
+      "availableSizes": ["", ""],
+      "category": "",
+      "id": 21
+    },
+    {
+      "image": "img/",
+      "title": "",
+      "price": 30,
+      "description": "",
+      "availableSizes": ["", ""],
+      "category": "",
+      "id": 22
+    },
+    {
+      "image": "img/",
+      "title": "",
+      "price": 30,
+      "description": "",
+      "availableSizes": ["", ""],
+      "category": "",
+      "id": 23
+    },
+    {
+      "image": "img/",
+      "title": "",
+      "price": 30,
+      "description": "",
+      "availableSizes": ["", ""],
+      "category": "",
+      "id": 24
+    },
+    {
+      "image": "img/",
+      "title": "",
+      "price": 30,
+      "description": "",
+      "availableSizes": ["", ""],
+      "category": "",
+      "id": 25
+    }
+  ]
+}
