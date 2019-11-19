@@ -11,11 +11,11 @@
     },
     {
       "image": "products-img/2.png",
-      "title": "Pink Pusheen Patterned Ladies Sweatshirt",
+      "title": "Pink Pusheen Patterned Sweatshirt",
       "price": 25,
-      "description": "This blush pink sweater features a minimalist all-over print of Pusheen!",
+      "description": "This blush pink hoodie features a minimalist all-over print of Pusheen!",
       "availableSizes": ["M", "L"],
-      "category": "Sweater",
+      "category": "Hoodie",
       "id": 2
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "image": "./products-img/4.jpg",
-      "title": "Black Pastel Pusheen One Piece Swim Suit",
+      "title": "Black Pastel Pusheen Swim Suit",
       "price": 27,
       "description": "This flattering one piece swim suit is purrrfect for summer pool parties!",
       "availableSizes": ["S", "M", "XXL"],
@@ -46,8 +46,8 @@
       "id": 5
     },
     {
-      "image": "products-img/6.jpg",
-      "title": "Surfing Pusheen One Piece Swim Suit",
+      "image": "products-img/6.png",
+      "title": "Surfing Pusheen Swim Suit",
       "price": 27,
       "description": "This super cute one piece swim suit features Pusheen surfing surrounded by all her friends! Perfect for a day at the pool or beach!",
       "availableSizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -56,11 +56,11 @@
     },
     {
       "image": "products-img/7.png",
-      "title": "Pugsheen Print Ladies Sweatshirt",
+      "title": "Pugsheen Print Sweatshirt",
       "price": 25,
       "description": "This adorable long sleeve terrycloth raglan sweatshirt features an neutral all-over print of the chubby puppy in various poses!",
       "availableSizes": ["L", "XL", "XXL"],
-      "category": "T-Shirt",
+      "category": "Hoodie",
       "id": 7
     },
     {
@@ -74,11 +74,11 @@
     },
     {
       "image": "products-img/9.png",
-      "title": "Pusheen Legacy Unisex Sweatshirt",
+      "title": "Pusheen Legacy Sweatshirt",
       "price": 38,
       "description": "This long-sleeved terry cloth sweatshirt features Pusheen and unique felt appliqué details!",
       "availableSizes": ["XS", "S", "L"],
-      "category": "T-Shirt",
+      "category": "Hoodie",
       "id": 9
     },
     {
@@ -107,7 +107,7 @@
       "id": 12
     },
     {
-      "image": "products-img/13",
+      "image": "products-img/13.jpg",
       "title": "Coffee Pusheen Jewelry Set",
       "price": 30,
       "description": "Add a splash of cozy kittens to your outfit du jour with a necklace and earrings inspired by Pusheen's love for relaxing with coffee!",
@@ -156,7 +156,7 @@
     },
     {
       "image": "products-img/19.png",
-      "title": "Pusheen Striped Snack Patch Unisex Tee",
+      "title": "Pusheen Striped Snack Patch Tee",
       "price": 30,
       "description": "This striped unisex tee features seven different patches of Pusheen and her favorite snacks!",
       "availableSizes": ["M", "XL"],
@@ -164,7 +164,7 @@
       "id": 19
     },
     {
-      "image": "products-img/18jpg",
+      "image": "products-img/20.jpg",
       "title": "Pusheenicorn Wristlet Wallet",
       "price": 30,
       "description": "This chic wristlet wallet features an all-over print of the magical Pusheenicorn! The detachable wrist strap turns this oversized wallet into a clutch for your night out. The roomy interior compartments fit standard phone sizes perfectly!",
@@ -173,48 +173,169 @@
     },
     {
       "image": "products-img/21.jpg",
-      "title": "",
-      "price": 30,
-      "description": "",
-      "availableSizes": ["", ""],
-      "category": "",
+      "title": "Pusheen Button-Up Party Dress",
+      "price": 50,
+      "description": "This dress introduces a cute and classy look to your summer wardrobe. This dress comes with a removable pink sash to tie in either the front or the back, and pockets great for storing trinkets or casually resting your hands on a lazy summer afternoon.",
+      "availableSizes": ["S", "L"],
+      "category": "Dress",
       "id": 21
     },
     {
-      "image": "products-img/",
-      "title": "",
-      "price": 30,
-      "description": "",
-      "availableSizes": ["", ""],
-      "category": "",
+      "image": "products-img/22.jpg",
+      "title": "The Black Cat Dress",
+      "price": 42,
+      "description": "Embrace your dark side! This dress is perfect to show off the rebel girl you have inside.",
+      "availableSizes": ["M", "L", "XL"],
+      "category": "Dress",
       "id": 22
     },
     {
-      "image": "products-img/",
-      "title": "",
-      "price": 30,
+      "image": "products-img/23.png",
+      "title": "I'm a Cat Hoodie",
+      "price": 50,
       "description": "",
-      "availableSizes": ["", ""],
-      "category": "",
+      "availableSizes": ["M", "L"],
+      "category": "Hoodie",
       "id": 23
     },
     {
-      "image": "products-img/",
-      "title": "",
-      "price": 30,
+      "image": "products-img/24.jpg",
+      "title": "Cat love Swim Suit",
+      "price": 36,
       "description": "",
       "availableSizes": ["", ""],
       "category": "",
       "id": 24
     },
     {
-      "image": "products-img/",
-      "title": "",
+      "image": "products-img/25.jpg",
+      "title": "Alice & Cheshire Cat T-Shirt",
       "price": 30,
       "description": "",
       "availableSizes": ["", ""],
-      "category": "",
+      "category": "T-Shirt",
       "id": 25
+    },
+    {
+      "image": "products-img/26.jpg",
+      "title": "Classic Pusheen Leggings",
+      "price": 28,
+      "description": "These Pusheen leggings are both sleek and comfy, perfect for a casual day out or a cozy night in!",
+      "availableSizes": ["XS", "M", "XL"],
+      "category": "Accessories",
+      "id": 26
+    },
+    {
+      "image": "products-img/27.png",
+      "title": "Pusheen Pin Set",
+      "price": 15,
+      "description": "",
+      "category": "Accessories",
+      "id": 27
+    },
+    {
+      "image": "products-img/28.jpg",
+      "title": "The Rabbit and the Cat Pin Set",
+      "price": 10,
+      "description": "",
+      "category": "Accessories",
+      "id": 28
+    },
+    {
+      "image": "products-img/29.jpg",
+      "title": "Catlover Pin Set",
+      "price": 12,
+      "description": "",
+      "category": "Accessories",
+      "id": 29
+    },
+    {
+      "image": "products-img/30.jpg",
+      "title": "I love My Cat Bracelet",
+      "price": 40,
+      "description": "",
+      "category": "Jewelry",
+      "id": 30
+    },
+    {
+      "image": "products-img/31.jpg",
+      "title": "Pink Kitty Headphones",
+      "price": 75,
+      "description": "",
+      "category": "Accessories",
+      "id": 31
+    },
+    {
+      "image": "products-img/32.jpg",
+      "title": "Kittens Everywhere Ring Set",
+      "price": 20,
+      "description": "",
+      "category": "Jewelry",
+      "id": 32
+    },
+    {
+      "image": "products-img/33.jpg",
+      "title": "Pearl Cat Ring",
+      "price": 65,
+      "description": "",
+      "category": "Jewelry",
+      "id": 33
+    },
+    {
+      "image": "products-img/34.jpg",
+      "title": "Purrrple Cat Ring",
+      "price": 55,
+      "description": "",
+      "category": "Jewelry",
+      "id": 34
+    },
+    {
+      "image": "products-img/35.jpg",
+      "title": "Bastet Keychain",
+      "price": 10,
+      "description": "",
+      "category": "Accessories",
+      "id": 35
+    },
+    {
+      "image": "products-img/36.jpeg",
+      "title": "Mystic Cat Keychain",
+      "price": 10,
+      "description": "",
+      "category": "Accessories",
+      "id": 36
+    },
+    {
+      "image": "products-img/37.jpg",
+      "title": "Fluffy Fluff Cat Keychain",
+      "price": 8,
+      "description": "",
+      "category": "Accessories",
+      "id": 37
+    },
+    {
+      "image": "products-img/38.jpg",
+      "title": "AstroCat T-Shirt",
+      "price": 22,
+      "description": "",
+      "category": "T-Shirt",
+      "id": 38
+    },
+    {
+      "image": "products-img/39.jpg",
+      "title": "The Elegant Cat Lady Dress",
+      "price": 40,
+      "description": "",
+      "category": "Dress",
+      "id": 39
+    },
+    {
+      "image": "products-img/40.jpg",
+      "title": "I Speak Fluent Cat T-Shirt",
+      "price": 18,
+      "description": "",
+      "category": "T-Shirt",
+      "id": 40
     }
   ]
 }
