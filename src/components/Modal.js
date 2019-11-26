@@ -3,16 +3,20 @@ import React from 'react';
 function Modal(props) {
 
   return (
-    <ul>
-      <li>
-        <img className="product-img" src={props.myprop.image} alt={props.myprop.title} />
-        <h3>{props.myprop.title}</h3>  
-        <span>${props.myprop.price}</span>  
-        <p>{props.myprop.description}</p>
-        <p>Available sizes: {props.myprop.availableSizes}</p>
-        <span>Category: {props.myprop.category}</span>    
+    <ul className="card-container--modal">
+      <li className="card__item card__item--modal">
+        <button onClick={props.functionClose} className="close-button">X</button>
+        <img className="product-img--modal" src={props.propitem.image} alt={props.propitem.title} />
+        <h3 className="product-title">{props.propitem.title}</h3>  
+        <span className="product-price">${props.propitem.price}</ span>  
+        <p className="product-description left-space"><span className="bold-txt">Description: </span>{props.propitem.description}</p>
+        <p className="product-sizes left-space">
+          <span className="bold-txt">Available sizes: </span> {props.propitem.availableSizes}
+        </p>
+        <p className="product-category left-space">
+          <span className="bold-txt">Category: </span>{props.propitem.category}
+        </p>
       </li>
-      <button onClick={props.functionClose} >X</button>
     </ul>
   );
 }

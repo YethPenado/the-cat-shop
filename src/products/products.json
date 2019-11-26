@@ -11,7 +11,7 @@
     },
     {
       "image": "products-img/2.png",
-      "title": "Pink Pusheen Patterned Sweatshirt",
+      "title": "Pink Pusheen Patterned Hoodie",
       "price": 25,
       "description": "This blush pink hoodie features a minimalist all-over print of Pusheen!",
       "availableSizes": "M - L",
@@ -86,15 +86,14 @@
       "title": "Cat Pantyhose",
       "price": 30,
       "description": "Cute Cat pantyhose Black faux thigh high with flesh color top, cat design in two styles. Back of tights have a cat tail going up leg.",
-      "availableSizes": "XS",
       "category": "Accessories",
       "id": 10
     },
     {
       "image": "products-img/11.png",
-      "title": "Classic cat-eye sunglasses",
+      "title": "Classic Cat-Eye Sunglasses",
       "price": 30,
-      "description": "Classic cat-eye sunglasses with a black frame and tinted lenses.",
+      "description": "This classic cat-eye sunglasses with a black frame and tinted lenses it's all you need for a purrfect fashion day!",
       "category": "Accessories",
       "id": 11
     },
@@ -148,7 +147,7 @@
     },
     {
       "image": "products-img/18.png",
-      "title": "Pink Pastel Pusheen Crossbody Purse",
+      "title": "Pink Pusheen Crossbody Purse",
       "price": 30,
       "description": "This adorable crossbody purse features a print of the Pusheen as Pink Pastel Pusheen on each side!",
       "category": "Accessories",
@@ -193,16 +192,16 @@
       "image": "products-img/23.png",
       "title": "I'm a Cat Hoodie",
       "price": 50,
-      "description": "",
-      "availableSizes": "M - L",
+      "description": "Nobody believes you, but we know it's true: Actually, you are a cat. Tell the world with this lovely hoodie, available in various sizes.",
+      "availableSizes": "XS - S - M - L - XL - XXL",
       "category": "Hoodie",
       "id": 23
     },
     {
       "image": "products-img/24.jpg",
-      "title": "Cat love Swim Suit",
+      "title": "Cat Love Swim Suit",
       "price": 36,
-      "description": "",
+      "description": "Show your cat love to the world, with this adorable swimsuit, printed with a tender kiss between these two adorable cats.",
       "availableSizes": "S - M - XL",
       "category": "Swim Suit",
       "id": 24
@@ -211,7 +210,7 @@
       "image": "products-img/25.jpg",
       "title": "Alice & Cheshire Cat T-Shirt",
       "price": 30,
-      "description": "",
+      "description": "Show your craziest side with this Alice and the Cheshire Cat T-Shirt, our crazy favorites.",
       "availableSizes": "XS - M",
       "category": "T-Shirt",
       "id": 25
@@ -229,7 +228,7 @@
       "image": "products-img/27.png",
       "title": "Pusheen Pin Set",
       "price": 15,
-      "description": "",
+      "description": "Pusheen's favorite phases gathered in a lovely set of pins, ideal for decorating your clothes, bags, coats and more!",
       "category": "Accessories",
       "id": 27
     },
@@ -237,7 +236,7 @@
       "image": "products-img/28.jpg",
       "title": "The Rabbit and the Cat Pin Set",
       "price": 10,
-      "description": "",
+      "description": "This cute pin set is ideal for those who love cats and rabbits alike.",
       "category": "Accessories",
       "id": 28
     },
@@ -245,7 +244,7 @@
       "image": "products-img/29.jpg",
       "title": "Catlover Pin Set",
       "price": 12,
-      "description": "",
+      "description": "Shout your cat love to the world with this lovely pin set!",
       "category": "Accessories",
       "id": 29
     },
@@ -253,7 +252,7 @@
       "image": "products-img/30.jpg",
       "title": "I love My Cat Bracelet",
       "price": 40,
-      "description": "",
+      "description": "For those whose 'cat' means more than a pet, this bracelet is a beautiful accessory that symbolizes and represents that special relationship you share with your cat.",
       "category": "Jewelry",
       "id": 30
     },
@@ -261,7 +260,7 @@
       "image": "products-img/31.jpg",
       "title": "Pink Kitty Headphones",
       "price": 75,
-      "description": "",
+      "description": "Enjoy the highest sound quality with these fantastic pink kitty headphones!",
       "category": "Accessories",
       "id": 31
     },
@@ -269,23 +268,26 @@
       "image": "products-img/32.jpg",
       "title": "Kittens Everywhere Ring Set",
       "price": 20,
-      "description": "",
+      "description": "Show your love for cats with these adorable silver rings, or you can share them with your friends! Either way, they are an excellent option for a catlover person.",
+      "availableSizes": "6 - 7 - 8 - 9 - 10",
       "category": "Jewelry",
       "id": 32
     },
     {
       "image": "products-img/33.jpg",
       "title": "Pearl Cat Ring",
-      "price": 65,
-      "description": "",
+      "price": 75,
+      "description": "If you are looking for a sophisticated way to show your love for cats, this ring is purrrfect for you. Made of 950 silver and a beautiful pearl, this ring is suitable for the most elegant situations.",
+      "availableSizes": "6 - 7 ",
       "category": "Jewelry",
       "id": 33
     },
     {
       "image": "products-img/34.jpg",
       "title": "Purrrple Cat Ring",
-      "price": 55,
-      "description": "",
+      "price": 70,
+      "description": "Made of 950 silver, with a beautiful amethyst in the center and cat details, this ring is made for the most luxurious cat lady in the city.",
+      "availableSizes": "6 - 9 - 10",
       "category": "Jewelry",
       "id": 34
     },
@@ -293,7 +295,7 @@
       "image": "products-img/35.jpg",
       "title": "Bastet Keychain",
       "price": 10,
-      "description": "",
+      "description": "This keychain represents the Egyptian goddess who takes the form of a cat, Bastet.",
       "category": "Accessories",
       "id": 35
     },
@@ -301,7 +303,7 @@
       "image": "products-img/36.jpeg",
       "title": "Mystic Cat Keychain",
       "price": 10,
-      "description": "",
+      "description": "Add a mystical touch to your inventory with this keychain of a mysterious white cat, which represents the mysticism and charm that characterize cats so much.",
       "category": "Accessories",
       "id": 36
     },
@@ -309,7 +311,7 @@
       "image": "products-img/37.jpg",
       "title": "Fluffy Fluff Cat Keychain",
       "price": 8,
-      "description": "",
+      "description": "Are you a fan of cat fur? We have the perfect accessory for you! This adorable plush-style keychain is an accessory that cannot be missing in your inventory.",
       "category": "Accessories",
       "id": 37
     },
@@ -317,26 +319,26 @@
       "image": "products-img/38.jpg",
       "title": "AstroCat T-Shirt",
       "price": 22,
-      "description": "",
+      "description": "Lover of cats and stars? Then this is the ideal shirt for you!",
       "availableSizes": "M - L - XXL",
       "category": "T-Shirt",
       "id": 38
     },
     {
       "image": "products-img/39.jpg",
-      "title": "The Elegant Cat Lady Dress",
+      "title": "The Elegant Cat Lady Blouse",
       "price": 40,
-      "description": "",
+      "description": "This sophisticated blouse with cat print is ideal for work meetings and formal events, without losing your identity as the most fashionist cat lady.",
       "availableSizes": "S - M - L",
-      "category": "Dress",
+      "category": "T-Shirt",
       "id": 39
     },
     {
       "image": "products-img/40.jpg",
       "title": "I Speak Fluent Cat T-Shirt",
       "price": 18,
-      "description": "",
-      "availableSizes": "XS - M - XL, XXL",
+      "description": "Communicating with your cat is a skill that deserves to be recognized by the world. Show off with this fun T-Shirt, which certifies you as a native Spanish speaker",
+      "availableSizes": "XS - M - XL - XXL",
       "category": "T-Shirt",
       "id": 40
     }
