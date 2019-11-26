@@ -1,6 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Mukta&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mukta:300,400,600&display=swap');
+
+@font-face {
+  font-family: 'Noteworthy';
+  src: local('Noteworthy'), url(./font/Noteworthy.ttf), format('truetype');
+}
 
 body {
+  background-image: url(wallpaper/pattern-2.jpg);
   font-family: 'Mukta', sans-serif;
   margin: 0;
 }

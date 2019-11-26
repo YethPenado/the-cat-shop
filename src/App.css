@@ -2,12 +2,16 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: #FFE9F4;
+h2 {
+  font-family: 'Noteworthy', Arial, Helvetica, sans-serif;
 }
 
 nav {
   padding: 15px 25px;
+}
+
+p {
+  font-weight: 300;
 }
 
 ul {
@@ -21,7 +25,6 @@ ul {
 .App-logo {
   display: block;
   margin: 0 auto;
-  padding: 25px 0;
 }
 
 .bold-txt {
@@ -56,7 +59,6 @@ ul {
 
 .card__item--modal {
   max-width: 75%;
-  max-height: 75%;
 }
 
 .close-button {
@@ -115,7 +117,7 @@ ul {
   cursor: pointer;
   display: block;
   font-size: 1rem;
-  font-weight: bold;
+  font-weight: 300;
   margin: 5px auto 25px;
   padding: 10px 20px;
 }
