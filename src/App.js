@@ -1,19 +1,17 @@
 import React from 'react';
-import logo from './icons/logo.png';
-import ProductsList from './components/Cards';
+import { BrowserRouter, Switch, Route, Link } from 'react-router-dom';
+import Home from './pages/Home';
+import Cart from './pages/Cart';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="The Cat Shop" />
-      </header>
-      <div className="products-container">
-      <h2 className="our-products__title">Our Products</h2>
-        <ProductsList/>
-      </div>
-    </div>
+    <BrowserRouter>
+      <Switch>
+        <Route path = {'/'} component= {Home} exact />
+        <Route path = {'/Cart'} component= {Cart} />
+      </Switch>
+    </BrowserRouter>
   );
 }
 

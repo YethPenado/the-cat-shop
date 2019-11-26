@@ -32,12 +32,36 @@ ul {
   transform: scale(1.1);
 }
 
-.our-products__title {
+.main-title {
   background-color: black;
   color: white;
   font-size: 2rem;
   padding: 10px 20px;
   text-align: center;
+}
+
+.nav-item {
+  color: black;
+  font-size: 2rem;
+  font-weight: bold;
+  position: relative;
+  text-decoration: none;
+}
+
+.nav-item::before {
+  background-color: black;
+  content: '';
+  display: block;
+  height: 3px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  transition: all .3s;
+  width: 0;
+}
+
+.nav-item:hover::before {
+  width: 100%;
 }
 
 .product-details {

@@ -1,11 +1,11 @@
 {
-  "products": [
+  "products": [ 
     {
       "image": "products-img/1.jpg",
       "title": "Pusheen Party Romper",
       "price": 35,
       "description": "This light and breezy romper will help you feel as cool as you look! The romper sports a pattern of Pusheen and Stormy enjoying watermelon and sundaes, an elastic waistband and adjustable straps for the perfect fit for optimal comfort, and pockets for keeping all your summer necessities close.",
-      "availableSizes": ["XS", "S", "M", "L"],
+      "availableSizes": "XS - S - M - L",
       "category": "Dress",
       "id": 1
     },
@@ -14,7 +14,7 @@
       "title": "Pink Pusheen Patterned Sweatshirt",
       "price": 25,
       "description": "This blush pink hoodie features a minimalist all-over print of Pusheen!",
-      "availableSizes": ["M", "L"],
+      "availableSizes": "M - L",
       "category": "Hoodie",
       "id": 2
     },
@@ -23,7 +23,7 @@
       "title": "Catfe Drinks Ladies Tee",
       "price": 15,
       "description": "How well do you know catfe drinks? Show off your coffee expertise in this stylishly soft Pusheen ladies tee!",
-      "availableSizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "availableSizes": "XS - S - M - L - XL - XXL",
       "category": "T-Shirt",
       "id": 3
     },
@@ -32,7 +32,7 @@
       "title": "Black Pastel Pusheen Swim Suit",
       "price": 27,
       "description": "This flattering one piece swim suit is purrrfect for summer pool parties!",
-      "availableSizes": ["S", "M", "XXL"],
+      "availableSizes": "S - M - XXL",
       "category": "Swim Suit",
       "id": 4
     },
@@ -41,7 +41,7 @@
       "title": "Pusheen Blush Pink Bikini Top",
       "price": 30,
       "description": "This chic blush pink bikini top features a Pusheen all over print, halter style straps, and molded cups. Perfect for a day lounging poolside!",
-      "availableSizes": ["XS", "S"],
+      "availableSizes": "XS - S",
       "category": "Swim Suit",
       "id": 5
     },
@@ -50,7 +50,7 @@
       "title": "Surfing Pusheen Swim Suit",
       "price": 27,
       "description": "This super cute one piece swim suit features Pusheen surfing surrounded by all her friends! Perfect for a day at the pool or beach!",
-      "availableSizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "availableSizes": "XS - S - M - L - XL - XXL",
       "category": "Swim Suit",
       "id": 6
     },
@@ -59,7 +59,7 @@
       "title": "Pugsheen Print Sweatshirt",
       "price": 25,
       "description": "This adorable long sleeve terrycloth raglan sweatshirt features an neutral all-over print of the chubby puppy in various poses!",
-      "availableSizes": ["L", "XL", "XXL"],
+      "availableSizes": "L - XL - XXL",
       "category": "Hoodie",
       "id": 7
     },
@@ -68,7 +68,7 @@
       "title": "Pumpkin Pusheen Mesh Illusion Dress",
       "price": 30,
       "description": "This little black dress features a mesh illusion neckline and a Pumpkin Pusheen pattern!",
-      "availableSizes": ["XS", "S"],
+      "availableSizes": "XS - S",
       "category": "Dress",
       "id": 8
     },
@@ -77,7 +77,7 @@
       "title": "Pusheen Legacy Sweatshirt",
       "price": 38,
       "description": "This long-sleeved terry cloth sweatshirt features Pusheen and unique felt appliqué details!",
-      "availableSizes": ["XS", "S", "L"],
+      "availableSizes": "XS - S - L",
       "category": "Hoodie",
       "id": 9
     },
@@ -86,7 +86,7 @@
       "title": "Cat Pantyhose",
       "price": 30,
       "description": "Cute Cat pantyhose Black faux thigh high with flesh color top, cat design in two styles. Back of tights have a cat tail going up leg.",
-      "availableSizes": ["XS"],
+      "availableSizes": "XS",
       "category": "Accessories",
       "id": 10
     },
@@ -159,7 +159,7 @@
       "title": "Pusheen Striped Snack Patch Tee",
       "price": 30,
       "description": "This striped unisex tee features seven different patches of Pusheen and her favorite snacks!",
-      "availableSizes": ["M", "XL"],
+      "availableSizes": "M - XL",
       "category": "T-Shirt",
       "id": 19
     },
@@ -176,7 +176,7 @@
       "title": "Pusheen Button-Up Party Dress",
       "price": 50,
       "description": "This dress introduces a cute and classy look to your summer wardrobe. This dress comes with a removable pink sash to tie in either the front or the back, and pockets great for storing trinkets or casually resting your hands on a lazy summer afternoon.",
-      "availableSizes": ["S", "L"],
+      "availableSizes": "S - L",
       "category": "Dress",
       "id": 21
     },
@@ -185,7 +185,7 @@
       "title": "The Black Cat Dress",
       "price": 42,
       "description": "Embrace your dark side! This dress is perfect to show off the rebel girl you have inside.",
-      "availableSizes": ["M", "L", "XL"],
+      "availableSizes": "M - L - XL",
       "category": "Dress",
       "id": 22
     },
@@ -194,7 +194,7 @@
       "title": "I'm a Cat Hoodie",
       "price": 50,
       "description": "",
-      "availableSizes": ["M", "L"],
+      "availableSizes": "M - L",
       "category": "Hoodie",
       "id": 23
     },
@@ -203,8 +203,8 @@
       "title": "Cat love Swim Suit",
       "price": 36,
       "description": "",
-      "availableSizes": ["", ""],
-      "category": "",
+      "availableSizes": "S - M - XL",
+      "category": "Swim Suit",
       "id": 24
     },
     {
@@ -212,7 +212,7 @@
       "title": "Alice & Cheshire Cat T-Shirt",
       "price": 30,
       "description": "",
-      "availableSizes": ["", ""],
+      "availableSizes": "XS - M",
       "category": "T-Shirt",
       "id": 25
     },
@@ -221,7 +221,7 @@
       "title": "Classic Pusheen Leggings",
       "price": 28,
       "description": "These Pusheen leggings are both sleek and comfy, perfect for a casual day out or a cozy night in!",
-      "availableSizes": ["XS", "M", "XL"],
+      "availableSizes": "XS - M - XL",
       "category": "Accessories",
       "id": 26
     },
@@ -318,6 +318,7 @@
       "title": "AstroCat T-Shirt",
       "price": 22,
       "description": "",
+      "availableSizes": "M - L - XXL",
       "category": "T-Shirt",
       "id": 38
     },
@@ -326,6 +327,7 @@
       "title": "The Elegant Cat Lady Dress",
       "price": 40,
       "description": "",
+      "availableSizes": "S - M - L",
       "category": "Dress",
       "id": 39
     },
@@ -334,6 +336,7 @@
       "title": "I Speak Fluent Cat T-Shirt",
       "price": 18,
       "description": "",
+      "availableSizes": "XS - M - XL, XXL",
       "category": "T-Shirt",
       "id": 40
     }
