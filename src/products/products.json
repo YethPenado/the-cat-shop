@@ -4,7 +4,7 @@
       "image": "products-img/1.jpg",
       "title": "Pusheen Party Romper",
       "price": 35,
-      "description": "This light and breezy romper will help you feel as cool as you look! The romper sports a pattern of Pusheen and Stormy enjoying watermelon and sundaes, an elastic waistband and adjustable straps for the perfect fit for optimal comfort, and pockets for keeping all your summer necessities close.",
+      "description": "This chic romper sports has an elastic waistband and adjustable straps for the perfect fit for optimal comfort, and pockets for keeping all your necessities close.",
       "availableSizes": "XS - S - M - L",
       "category": "Dress",
       "id": 1
@@ -174,7 +174,7 @@
       "image": "products-img/21.jpg",
       "title": "Pusheen Button-Up Party Dress",
       "price": 50,
-      "description": "This dress introduces a cute and classy look to your summer wardrobe. This dress comes with a removable pink sash to tie in either the front or the back, and pockets great for storing trinkets or casually resting your hands on a lazy summer afternoon.",
+      "description": "This dress comes with a removable pink sash to tie in either the front or the back, and pockets great for storing trinkets or casually resting your hands.",
       "availableSizes": "S - L",
       "category": "Dress",
       "id": 21
@@ -252,7 +252,7 @@
       "image": "products-img/30.jpg",
       "title": "I love My Cat Bracelet",
       "price": 40,
-      "description": "For those whose 'cat' means more than a pet, this bracelet is a beautiful accessory that symbolizes and represents that special relationship you share with your cat.",
+      "description": "For those whose 'cat' means more than a pet, this bracelet is a beautiful accessory that symbolizes the special relationship you share with your cat.",
       "category": "Jewelry",
       "id": 30
     },

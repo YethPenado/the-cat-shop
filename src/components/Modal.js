@@ -16,7 +16,7 @@ function Modal(props) {
         <p className="product-category left-space">
           <span className="bold-txt">Category: </span>{props.propitem.category}
         </p>
-        <Link to = '/Cart' className="product-details">Go to Cart</Link>
+        <Link to = '/Cart' className="product-add">Go to Cart</Link>
       </li>
     </ul>
   );

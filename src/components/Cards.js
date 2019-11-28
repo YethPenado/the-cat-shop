@@ -28,7 +28,7 @@ function ProductsList() {
               <img className="product-img" src={products.image} alt={products.title} />
               <h3 className="product-title">{products.title}</h3>
               <span className="product-price">${products.price}</span>
-              <button id={products.id} onClick={showModal} className="product-details">Add to Cart</button>
+              <button id={products.id} onClick={showModal} className="product-add">Add to Cart</button>
             </li>
           )
         })}
